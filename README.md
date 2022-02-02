@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there :wave:
 
-<!--
-**iperdomo/iperdomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I usually work as a software architect, senior engineer, technical advisor, team lead, mentor.
+Depending on the context.
 
-Here are some ideas to get you started:
+Since 2001 I have played different roles on organizations of different sizes, from small family-own
+companies, startups, to Fortune 500. I have worked with several technologies across my career
+settling on the JVM and Web related technologies since 2006.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Together with @awolslki, I'm working in an exciting new project named
+[Yvant](https://yvant.coop):herb:
+
+If you're working in the _climate change_ sector and need help with your MVP, DevOps practices,
+automation, systems architecture or related, we're more than happy to talk to you. Contact us at:
+hello@yvant.coop
