@@ -7,7 +7,7 @@ Since 2001 I have played different roles on organizations of different sizes, fr
 companies, startups, to Fortune 500. I have worked with several technologies across my career
 settling on the JVM and Web related technologies since 2006.
 
-Together with @awolslki, I'm working in an exciting new project named
+Together with @awolski, I'm working in an exciting new project named
 [Yvant](https://yvant.coop):herb:
 
 If you're working in the _climate change_ sector and need help with your MVP, DevOps practices,
